@@ -58,8 +58,7 @@ Social-Media-Sentiment-Analysis-Dashboard/
 │   └── dashboard_charts.png
 │
 ├── requirements.txt
-├── README.md
-└── main.py
+└── README.md
 ```
 
 ---
