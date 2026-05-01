@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+.env
+.DS_Store
+
+# Ignore outputs/screenshots (optional)
+outputs/
+
+# Ignore dataset if large
+data/*.csv
